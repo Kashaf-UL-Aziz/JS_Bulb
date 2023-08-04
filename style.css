@@ -1,0 +1,18 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.main {
+    max-width: 250px;
+    max-height: 188px;
+    display: block;
+    margin: 100px auto;
+}
+
+
+button {
+    margin: 2px;
+    padding: 2px;
+}
